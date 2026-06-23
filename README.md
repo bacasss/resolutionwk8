@@ -2,9 +2,9 @@ note: if the stars align and it somehow magically works on your end, EVERYTHING 
 
 note 2: because i made 2 bots in attempt of fixing this issue, i have completely lost track of which bot is which as they both have the same names, commands, and dont work. due to that, the submitted link may be wrong. please try both links, though neither may work.
 
-possible link 1: https://app.slack.com/client/E09V59WQY1E/D0BCB6D088K
+possible link 1: https://app.slack.com/client/E09V59WQY1E/D0BCB6D088K (the one i submitted, may be wrong)
 
-possible link 2: https://app.slack.com/client/E09V59WQY1E/D0BCM04CWBC
+possible link 2: https://app.slack.com/client/E09V59WQY1E/D0BCM04CWBC (possibly the correct one tho i am not sure)
 
 couldnt get it to work in socket mode, was incredibly frustrating to debug. spent over 6h trying everything i can find online of people getting similar issues but to no avail. also 0 documentation on the slack docs. some invalid_service error, i tried deleting the cache, deleting the app, reinstalling the code, redo on a fresh bot, revoking my tokens, and even resorting to ai to check my code, and the ai blamed the restrictions of the slack server and said my code was fine lol. unfortunately, without the working socket mode demo, i probably wouldnt be able to do a proper submission for this week. anyway, ill still describe what i was hoping to achieve with this.
 
