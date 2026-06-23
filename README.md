@@ -1,8 +1,11 @@
+note: if the stars align and it somehow magically works on your end, EVERYTHING is untested, as i am unable to test them
+
 couldnt get it to work in socket mode, was incredibly frustrating to debug. spent over 6h trying everything i can find online of people getting similar issues but to no avail. also 0 documentation on the slack docs. some invalid_service error, i tried deleting the cache, deleting the app, reinstalling the code, redo on a fresh bot, revoking my tokens, and even resorting to ai to check my code, and the ai blamed the restrictions of the slack server and said my code was fine lol. unfortunately, without the working socket mode demo, i probably wouldnt be able to do a proper submission for this week. anyway, ill still describe what i was hoping to achieve with this.
 
 Features:
 /confess is supposed to open up a modal where the user could type an anonymous confession to be public to everyone on the server
 users can have the option to also anonymously "relate" to the confession, and there is a counter to see how many people actually relates to it.
+i managed to download it into the channel, and dm it but because of the error, is pretty useless lol
 
 this was supposed to be a fun and simple project, but i have spent so much time trying to debug this error that i put more time into debugging than actually writing code and just the writing of code was my biggest Hack Club project ever, beating hardware projects with CAD, code and PCB. this obviously was extremely disappointing as the deadline is past and there is nothing i can do but accept that i have wasted time and that the past 7 weeks of work was (mostly) in vain as i REALLY wanted a raspberry pi lol. however, i learnt so much python in the process which was amnazing, so its not a complete waste haha.
 
