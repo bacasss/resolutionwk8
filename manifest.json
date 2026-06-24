@@ -29,7 +29,6 @@
   "oauth_config": {
     "scopes": {
       "bot": [
-        "chat:write.public",
         "chat:write",
         "commands"
       ]
