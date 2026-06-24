@@ -1,3 +1,20 @@
+<img width="1918" height="1198" alt="Screenshot 2026-06-25 051131" src="https://github.com/user-attachments/assets/6beb1b55-0c11-47b6-96a3-0ea42cb92c1c" />
+<img width="1918" height="1198" alt="Screenshot 2026-06-25 051201" src="https://github.com/user-attachments/assets/2e1991c1-4898-4d2b-995a-c66772e7807b" />
+<img width="1918" height="1198" alt="Screenshot 2026-06-25 051218" src="https://github.com/user-attachments/assets/b65fcba0-ed6c-4095-99e2-24e784a8c954" />
+<img width="847" height="148" alt="Screenshot 2026-06-25 051234" src="https://github.com/user-attachments/assets/0003dff1-9896-4b02-a525-143bf0afd1c3" />
+
+<img width="857" height="868" alt="image" src="https://github.com/user-attachments/assets/f6710619-8c77-4a3e-a078-2b93b17c3666" />
+
+
+
+
+
+
+
+
+
+FORGET ABOUT EVERYTH BELOW, BECAUSE IT WORKSSSSSSSSSSSS
+
 note: if the stars align and it somehow magically works on your end, EVERYTHING is untested, as i am unable to test them
 
 note 2: because i made 2 bots in attempt of fixing this issue, i have completely lost track of which bot is which as they both have the same names, commands, and dont work. due to that, the submitted link may be wrong. please try both links, though neither may work.
