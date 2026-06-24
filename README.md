@@ -6,8 +6,8 @@
 <img width="857" height="868" alt="image" src="https://github.com/user-attachments/assets/f6710619-8c77-4a3e-a078-2b93b17c3666" />
 
 
-
-
+link: https://app.slack.com/client/E09V59WQY1E/D0BCUBGTTAR
+(pls use /uselesscmd67 , its the only working command and i am a firm believer of if it aint broke dont touch it)
 
 
 
