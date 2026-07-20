@@ -9,11 +9,33 @@
 link: https://app.slack.com/client/E09V59WQY1E/D0BCUBGTTAR
 (pls use /uselesscmd67 , its the only working command and i am a firm believer of if it aint broke dont touch it)
 
+This is a simple anonymous confessuons bot, which runs on slack. Users can submit an anonymous confession through a slack modal, and pick where the confession will be posted, and allow everyone in that channel where its posted to anonymously indicate whether they relate or not.
+
+To use this bot, use the unfortunately named command (story below haha): /uselesscmd67
+Entering the command will open a modal, where the user can enter their anonymous confession, and pick where to post it
 
 
+Running Locally:
+(Prerequisites: Slack CLI installed.)
+1. Clone this repository.
+2. Open the project directory.
+3. Install the project dependencies: pip install -r requirements.txt
+4. Create and install your own copy of the Slack app using the Slack CLI: slack run
+
+The Slack CLI will guide you through creating/installing the app in your own workspace if needed.
+After installation, the bot will start and you can use the available slash commands in your workspace.
+
+The stupidly simple fix to the bug that broke the programme:
+/confess kept bringing up this error: /confess failed with the error "invalid_service"
+i tried SO many things, taking SO much time, and nothing worked. i spent more time debugging this than full fletched projects with cad, code and pcbs.
+this is until i made a new command, /uselesscmd67, which i linked it to the exact same thing /confess was meant to do AND IT WORKED (still had a bug but this one was much easier to fix)
+as you can probably tell, i was NOT expecting this to work, and as a strong believer of if it works dont touch it, i am NOT changing that name, it is perfect as it is. if it works, it works :D.
 
 
 FORGET ABOUT EVERYTH BELOW, BECAUSE IT WORKSSSSSSSSSSSS
+(everything below is outdated, but i decided not to remove that because it reflects the frustration i had to go through to fix one bug that broke the entire code, and i can confirm that it does, in fact, work fully now, as intended.)
+(sorry about the long readme, but below is just a rant on how much i struggled to fix my bug, its not really necassary to read it i left it there more for myself)
+
 
 note: if the stars align and it somehow magically works on your end, EVERYTHING is untested, as i am unable to test them
 
