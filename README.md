@@ -5,7 +5,7 @@ https://youtu.be/ATHPnt3kRSc
 
 the reviewer's own confessions are there its public :(
 
-
+also it may not be able to post to channels because the bot is not in them and also i was told to remove chat:write.public in the scope as it may not be allowed for the server. for testing purposes use your own dms as a test or feel free to use mine and then dm me for results im more than happy to help anything to get this approved rahh :(
 
 
 <img width="1918" height="1198" alt="Screenshot 2026-06-25 051131" src="https://github.com/user-attachments/assets/6beb1b55-0c11-47b6-96a3-0ea42cb92c1c" />
