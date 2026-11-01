@@ -1,3 +1,13 @@
+latest update:
+
+NOTHING IS WRONGG HERES PROOF OF LIFE:
+https://youtu.be/ATHPnt3kRSc
+
+the reviewer's own confessions are there its public :(
+
+
+
+
 <img width="1918" height="1198" alt="Screenshot 2026-06-25 051131" src="https://github.com/user-attachments/assets/6beb1b55-0c11-47b6-96a3-0ea42cb92c1c" />
 <img width="1918" height="1198" alt="Screenshot 2026-06-25 051201" src="https://github.com/user-attachments/assets/2e1991c1-4898-4d2b-995a-c66772e7807b" />
 <img width="1918" height="1198" alt="Screenshot 2026-06-25 051218" src="https://github.com/user-attachments/assets/b65fcba0-ed6c-4095-99e2-24e784a8c954" />
