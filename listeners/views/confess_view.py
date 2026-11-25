@@ -1,3 +1,4 @@
+
 from logging import Logger
 
 from slack_bolt import Ack
@@ -10,6 +11,13 @@ def conf_view_callback(view: dict, ack: Ack, body: dict, client: WebClient, logg
         provided_values = view["state"]["values"]
         confession_text = provided_values["confession_block"]["confession_input"]["value"]
         channel_id = provided_values["channel_block"]["channel_select"]["selected_conversation"]
+
+        ALLOWED_CHANNELS = ["C0CJQFDG9JP", "D0AGA3UD41Z"]
+
+        if channel_id not in ALLOWED_CHANNELS:
+            logger.warning(f"Unauthorized channel: {channel_id}")
+            return
+
         confession_id = add_conf(confession_text, channel_id)
         response = client.chat_postMessage(
             channel = channel_id,
@@ -41,4 +49,3 @@ def conf_view_callback(view: dict, ack: Ack, body: dict, client: WebClient, logg
         save_message_ts(confession_id, message_ts)
     except Exception as e:
         logger.error(e)
-
